@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #WeatherModelFeaturesGenerator
 <p>This is weather model features generation application.<br>
 At the moment geography data aggregated consists of : LATITUDE, LONGITUDE, ELEVATION. <br>
@@ -31,10 +30,3 @@ BNE|-27.4, 153.1333, 1.02|2016-08-30T21:52:22+10:00|Sunny|+26.00|997|52 <br>
 ###Main application can also run as follows if we were run the application other inputs
 >sbt "run path_to_input_file path_output_file"
 
-
-
-
-
-=======
-# WeatherModelFeaturesGenerator
->>>>>>> 35d097675bf619b3bb3cade1f3d4d68443f5c481
