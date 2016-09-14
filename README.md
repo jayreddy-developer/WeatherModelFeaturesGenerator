@@ -27,6 +27,6 @@ BNE|-27.4, 153.1333, 1.02|2016-08-30T21:52:22+10:00|Sunny|+26.00|997|52 <br>
 ###All the testcases can be run as follows
 >sbt test
 
-###Main application can also run as follows if we were run the application other inputs
+###Main application can also run as follows, if we were run the application with other inputs
 >sbt "run path_to_input_file path_output_file"
 
