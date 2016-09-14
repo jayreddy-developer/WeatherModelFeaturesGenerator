@@ -1,0 +1,13 @@
+#CITYNAME|IATA CODE
+Adelaide|ADL
+Albany|ALH
+Albury|ABX
+Alice Springs|ASP
+Sydney|SYD
+Melbourne|MEL
+Canberra|CBR
+Perth|PER
+Darwin|DRW
+Brisbane|BNE
+Hobart|HBA
+Bankstown|BWU
